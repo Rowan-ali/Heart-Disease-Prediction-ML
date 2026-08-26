@@ -31,11 +31,6 @@ This project develops a complete machine learning pipeline to predict whether a 
 
 This project uses the publicly available **Heart Disease Dataset**.
 
-**Dataset Link:**
-> *(ضع رابط الداتا هنا)*
-
-After downloading the dataset, place `heart.csv` inside the `data/` folder.
-
 ---
 
 ## ⚙️ Project Workflow
